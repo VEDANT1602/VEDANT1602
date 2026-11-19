@@ -4,7 +4,7 @@ Machine learning engineer working on fraud review, recommendation systems and ap
 
 Three results from my independent projects explain what I look for in a model.
 
-- **Fraud review.** Given 80 reviews, a tree with seven days of graph statistics found 19 positives. A trained graph encoder found 10. These are synthetic transactions, but the comparison poses a practical question: what does the extra training stage buy the review team? [Held-out comparison](https://github.com/VEDANT1602/hybrid-fraud-gnn/blob/main/results/case-study.md)
+- **Fraud review.** Given 80 reviews, a tree with seven days of graph statistics found 19 positives. XGBoost with learned graph embeddings found 10. These are synthetic transactions, but the comparison poses a practical question: what does the extra training stage buy the review team? [Held-out comparison](https://github.com/VEDANT1602/hybrid-fraud-gnn/blob/main/results/case-study.md)
 - **Fulfillment.** Across 600 fictional grocery orders, the buffered batch planner delivered 284 on time against 275 for buffered greedy. Each wave records which orders went to which shopper, so the comparison can be traced back to a particular assignment. [Assignments by wave](https://github.com/VEDANT1602/grocery-batch-planner/blob/main/results/wave-results.json)
 - **Inference.** Seven timed trials on a free Tesla T4 checked whether two implementations of one attention layer agreed. The recorded medians were 25.626 ms for full recomputation and 20.790 ms with KV reuse. The vLLM and Nebius guides cover a separate serving experiment that still needs measurements. [Device, timing procedure and raw repetitions](https://github.com/VEDANT1602/inference-systems-lab/tree/main/results/colab-t4)
 
