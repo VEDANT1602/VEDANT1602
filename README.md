@@ -1,33 +1,15 @@
 # Vedant Thaker
 
-**Machine Learning Engineer | Applied AI and ML Systems**
+Machine learning engineer working on fraud review, recommendation systems and applied AI. My background includes fraud ML at CSAA, search and recommendations at Ace Infoway, and independent work on retrieval and inference.
 
-I build around the decision a system has to make: which item to recommend, which orders to assign, which cases to review, and whether a model workload can run reliably.
+Three results from my independent projects explain what I look for in a model.
 
-My background spans fraud ML at **CSAA**, recommendation, search and client delivery at **Ace Infoway**, and concurrent independent work in applied AI and inference engineering. Here I make the engineering decisions inspectable through code, experiments and reports.
+- **Fraud review.** Given 80 reviews, a tree with seven days of graph statistics found 19 positives. A trained graph encoder found 10. These are synthetic transactions, but the comparison poses a practical question: what does the extra training stage buy the review team? [Held-out comparison](https://github.com/VEDANT1602/hybrid-fraud-gnn/blob/main/results/case-study.md)
+- **Fulfillment.** Across 600 fictional grocery orders, the buffered batch planner delivered 284 on time against 275 for buffered greedy. Each wave records which orders went to which shopper, so the comparison can be traced back to a particular assignment. [Assignments by wave](https://github.com/VEDANT1602/grocery-batch-planner/blob/main/results/wave-results.json)
+- **Inference.** Seven timed trials on a free Tesla T4 checked whether two implementations of one attention layer agreed. The recorded medians were 25.626 ms for full recomputation and 20.790 ms with KV reuse. The vLLM and Nebius guides cover a separate serving experiment that still needs measurements. [Device, timing procedure and raw repetitions](https://github.com/VEDANT1602/inference-systems-lab/tree/main/results/colab-t4)
 
-## Engineering portfolio
+For recommendation work, the [MovieLens evaluation](https://github.com/VEDANT1602/temporal-recommendations/blob/main/reports/case-study.md) shows how a popularity fallback changed which held-out ratings could be scored. For applied AI, [Knowledge Ledger](https://github.com/VEDANT1602/knowledge-ledger-hackathon) shows what happens when a fresh crawl contains an expired offer.
 
-| Area | What I build and investigate |
-| --- | --- |
-| **Recommendation and fulfillment systems** | [Temporal Recommendations](https://github.com/VEDANT1602/temporal-recommendations) tests PyTorch ranking against popularity under a global time boundary. [Grocery Batch Planner](https://github.com/VEDANT1602/grocery-batch-planner) connects XGBoost duration estimates to verified OR-Tools assignments: 284 on-time orders versus 275 for buffered greedy across 600 fictional orders. |
-| **Fraud and claims review** | [Hybrid Fraud GNN](https://github.com/VEDANT1602/hybrid-fraud-gnn) compares learned graph context with engineered graph controls; the simpler graph-statistics model wins the recorded synthetic test. [Claims Multilabel Signals](https://github.com/VEDANT1602/claims-multilabel-signals) uses family-disjoint evaluation, label-specific thresholds and support gates, keeping rare labels and distribution shift visible. |
-| **Inference and training systems** | [Inference Systems Lab](https://github.com/VEDANT1602/inference-systems-lab) joins streaming contracts, quality gates and KV-cache checks, including a small real Tesla T4 attention experiment. [Checkpoint Integrity Lab](https://github.com/VEDANT1602/checkpoint-integrity-lab) restores model, Adam and CPU RNG state to reproduce a training trajectory after rejecting corrupt or incomplete snapshots. |
-
-[Read the engineering reports](https://github.com/VEDANT1602/DataScienceProject/blob/master/docs/engineering-portfolio.md) · [Evidence Gate code and report](https://github.com/VEDANT1602/evidence-gate) · [Browse the repository directory](https://github.com/VEDANT1602/DataScienceProject/blob/master/docs/repository-directory.md)
-
-## How I work
-
-Define the decision and available evidence. Build a useful baseline. Implement the mechanism that addresses the failure. Test its boundaries. Measure the result and keep the tradeoff visible, including when the simpler approach wins.
-
-**Core stack:** Python, SQL, PyTorch, XGBoost, scikit-learn, FastAPI, Spark, Docker and AWS. Project-specific tools include OR-Tools and CUDA.
-
-The public implementations are independent work from 2026; each records its data, authorship, measurements and limits. Employer and customer code stays private. The T4 result concerns tiny attention arithmetic; vLLM and Nebius serving integrations have collection scripts but no recorded provider benchmark. Checkpoint recovery was measured on CPU.
-
-## Earlier work
-
-[FormVision](https://github.com/VEDANT1602/FormVision) · [LLM-Powered Knowledge Base](https://github.com/VEDANT1602/LLM-Powered-Knowledge-Base) · [Cryptocurrency Sentiment Analysis](https://github.com/VEDANT1602/Cryptocurrency-Sentiment-Analysis-System) · [Heart Disease Prediction](https://github.com/VEDANT1602/Heart-Disease-Prediction-System) · [Car Price Prediction](https://github.com/VEDANT1602/Sales-Prediction-of-Cars-using-ML)
-
-These repositories retain their original history and scope. The car-price work is an ASU report co-authored by **Divyesh Rathod, Meet Shah and Vedant Thaker**.
+I use Python, SQL, PyTorch and XGBoost across these projects. The [portfolio directory](https://github.com/VEDANT1602/DataScienceProject/blob/master/docs/repository-directory.md) includes the earlier notebooks and the ASU used-car price report I co-authored with Divyesh Rathod and Meet Shah.
 
 [LinkedIn](https://www.linkedin.com/in/vedant-thaker/) · [Email](mailto:vedant.thaker1602@gmail.com)
