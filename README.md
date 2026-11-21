@@ -8,12 +8,20 @@ For fulfillment, you can follow a single shopper’s assignments through the [gr
 
 ## Research working papers
 
-On November 19, 2026, I posted drafts from my independent research alongside the code and results. I’m preparing these working papers for submission.
+These ten independent working papers were revised on November 21, 2026. Each paper links to its study’s software, results and preparation record.
 
-- [A delivery receipt for two-robot dispatch under uncertain package identity (PDF)](https://github.com/VEDANT1602/verified-robot-dispatch/blob/cfa7da95805570aed7f4af10f1a07f8bc11f7fe7/manuscript.pdf). How do you tell which parcel actually reached the dock?
-- [When does waiting repay the cost of a carbon forecast? (PDF)](https://github.com/VEDANT1602/carbon-aware-scheduling-replay/blob/01da64f9a7bd3ba6a6ffc9521fbacc4927f3383b/manuscript.pdf). When is it worth spending energy to find a cleaner time to run a job?
+- [Bead-width reference measurements](https://github.com/VEDANT1602/bead-width-inspection/blob/7d9d76dcde1ce0291224bcf7cf6a64756a2ef5d3/manuscript.pdf)
+- [Calibration transfer in cut spring networks](https://github.com/VEDANT1602/lattice-fracture-calibration/blob/85bf05d1b58dde306f5fca88ef20fbf640c7a7df/manuscript.pdf)
+- [Robust two-robot dispatch](https://github.com/VEDANT1602/verified-robot-dispatch/blob/0075997d6e53debfeaefb7c6a4de02b5d613f966/manuscript.pdf)
+- [Carbon-aware scheduling](https://github.com/VEDANT1602/carbon-aware-scheduling-replay/blob/a31ba8a660c26067dddd8121c313332d9939a89b/manuscript.pdf)
+- [Two-marker pose correction](https://github.com/VEDANT1602/fixture-pose-correction/blob/d5fd89da341d942b67ea9f16422e6d1b78f1c0ff/manuscript.pdf)
+- [Magnetic cantilever calibration](https://github.com/VEDANT1602/magnetic-cantilever-clearance/blob/960a47b87426987fe5c37ddc13d504710b0fbef0/manuscript.pdf)
+- [Elliptical aperture localization](https://github.com/VEDANT1602/aperture-contact-localization/blob/564b3879d618f6053d90dfd42009a98d37b4ad89/manuscript.pdf)
+- [Foothold margins and route coverage](https://github.com/VEDANT1602/foothold-margin-planning/blob/6e6751dac579e40a6da626b90d13b8f34ccf6a48/manuscript.pdf)
+- [Auxiliary texture prediction and cue recall](https://github.com/VEDANT1602/delayed-cue-recall/blob/c8a7031a587260b06416deb4af622c6fafcbd580/manuscript.pdf)
+- [Recovering incompletely documented analyses](https://github.com/VEDANT1602/materials-workflow-replay/blob/8c26d42b38d18174733b57c1ffd6b50c3fb8d4fa/manuscript.pdf)
 
-[More papers and their experiment files](https://github.com/VEDANT1602/DataScienceProject#research-working-papers)
+[Study repositories and reproducibility files](https://github.com/VEDANT1602/DataScienceProject#research-working-papers)
 
 ## November 19 project updates
 
