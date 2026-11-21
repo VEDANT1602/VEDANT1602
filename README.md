@@ -8,21 +8,21 @@ For fulfillment, you can follow a single shopper’s assignments through the [gr
 
 ## Research working papers
 
-### Working papers
+### Workshop and preprint candidates
 
-- [Two-marker fixture yaw estimation](https://github.com/VEDANT1602/fixture-pose-correction/blob/main/manuscript.pdf)
-- [Auxiliary texture prediction and delayed recall](https://github.com/VEDANT1602/delayed-cue-recall/blob/main/manuscript.pdf)
-- [Reconstructing incomplete analysis records](https://github.com/VEDANT1602/materials-workflow-replay/blob/main/manuscript.pdf)
+- [Auxiliary loss and time to sustained recall](https://github.com/VEDANT1602/delayed-cue-recall/blob/main/manuscript.pdf) — workshop candidate
+- [Marker spacing and fixture heading](https://github.com/VEDANT1602/fixture-pose-correction/blob/main/manuscript.pdf) — workshop candidate
+- [One-hour flexibility on ARCHER2](https://github.com/VEDANT1602/carbon-aware-scheduling-replay/blob/main/manuscript.pdf) — preprint and workshop candidate
 
-### Technical notes
+### Studies and notes
 
-- [Caliper checks for extrusion-width measurement](https://github.com/VEDANT1602/bead-width-inspection/blob/main/manuscript.pdf)
-- [Repeated stiffness solves in a cut spring network](https://github.com/VEDANT1602/lattice-fracture-calibration/blob/main/manuscript.pdf)
-- [Shared uncertainty in dispatch decisions](https://github.com/VEDANT1602/verified-robot-dispatch/blob/main/manuscript.pdf)
-- [Carbon accounting for one-hour HPC deferrals](https://github.com/VEDANT1602/carbon-aware-scheduling-replay/blob/main/manuscript.pdf)
-- [Two low-field readings of a magnetic strip](https://github.com/VEDANT1602/magnetic-cantilever-clearance/blob/main/manuscript.pdf)
-- [Timing a sixth elliptical-rim contact](https://github.com/VEDANT1602/aperture-contact-localization/blob/main/manuscript.pdf)
-- [Foothold clearance and route coverage](https://github.com/VEDANT1602/foothold-margin-planning/blob/main/manuscript.pdf)
+- [Recovery of a missing classifier score from archived runs](https://github.com/VEDANT1602/materials-workflow-replay/blob/main/manuscript.pdf) — archival reproducibility study
+- [Width checks on five extrusion paths](https://github.com/VEDANT1602/bead-width-inspection/blob/main/manuscript.pdf) — technical report
+- [Solver choice for repeated lattice queries](https://github.com/VEDANT1602/lattice-fracture-calibration/blob/main/manuscript.pdf) — numerical methods report
+- [Two calibration readings on uniform magnetic strips](https://github.com/VEDANT1602/magnetic-cantilever-clearance/blob/main/manuscript.pdf) — technical report
+- [Corroborating foot placements with terrain measurements](https://github.com/VEDANT1602/foothold-margin-planning/blob/main/manuscript.pdf) — technical report
+- [Two-station dispatch from ten tickets](https://github.com/VEDANT1602/verified-robot-dispatch/blob/main/manuscript.pdf) — teaching note
+- [Timing a sixth contact in ellipse centering](https://github.com/VEDANT1602/aperture-contact-localization/blob/main/manuscript.pdf) — worked geometry example
 
 [Study repositories and reproducibility files](https://github.com/VEDANT1602/DataScienceProject#research-working-papers)
 
