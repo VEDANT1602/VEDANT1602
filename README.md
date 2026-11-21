@@ -8,18 +8,21 @@ For fulfillment, you can follow a single shopper’s assignments through the [gr
 
 ## Research working papers
 
-These ten independent working papers were revised on November 21, 2026. Each paper links to its study’s software, results and preparation record.
+### Working papers
 
-- [Bead-width reference measurements](https://github.com/VEDANT1602/bead-width-inspection/blob/7d9d76dcde1ce0291224bcf7cf6a64756a2ef5d3/manuscript.pdf)
-- [Calibration transfer in cut spring networks](https://github.com/VEDANT1602/lattice-fracture-calibration/blob/85bf05d1b58dde306f5fca88ef20fbf640c7a7df/manuscript.pdf)
-- [Robust two-robot dispatch](https://github.com/VEDANT1602/verified-robot-dispatch/blob/0075997d6e53debfeaefb7c6a4de02b5d613f966/manuscript.pdf)
-- [Carbon-aware scheduling](https://github.com/VEDANT1602/carbon-aware-scheduling-replay/blob/a31ba8a660c26067dddd8121c313332d9939a89b/manuscript.pdf)
-- [Two-marker pose correction](https://github.com/VEDANT1602/fixture-pose-correction/blob/d5fd89da341d942b67ea9f16422e6d1b78f1c0ff/manuscript.pdf)
-- [Magnetic cantilever calibration](https://github.com/VEDANT1602/magnetic-cantilever-clearance/blob/960a47b87426987fe5c37ddc13d504710b0fbef0/manuscript.pdf)
-- [Elliptical aperture localization](https://github.com/VEDANT1602/aperture-contact-localization/blob/564b3879d618f6053d90dfd42009a98d37b4ad89/manuscript.pdf)
-- [Foothold margins and route coverage](https://github.com/VEDANT1602/foothold-margin-planning/blob/6e6751dac579e40a6da626b90d13b8f34ccf6a48/manuscript.pdf)
-- [Auxiliary texture prediction and cue recall](https://github.com/VEDANT1602/delayed-cue-recall/blob/c8a7031a587260b06416deb4af622c6fafcbd580/manuscript.pdf)
-- [Recovering incompletely documented analyses](https://github.com/VEDANT1602/materials-workflow-replay/blob/8c26d42b38d18174733b57c1ffd6b50c3fb8d4fa/manuscript.pdf)
+- [Two-marker fixture yaw estimation](https://github.com/VEDANT1602/fixture-pose-correction/blob/main/manuscript.pdf)
+- [Auxiliary texture prediction and delayed recall](https://github.com/VEDANT1602/delayed-cue-recall/blob/main/manuscript.pdf)
+- [Reconstructing incomplete analysis records](https://github.com/VEDANT1602/materials-workflow-replay/blob/main/manuscript.pdf)
+
+### Technical notes
+
+- [Caliper checks for extrusion-width measurement](https://github.com/VEDANT1602/bead-width-inspection/blob/main/manuscript.pdf)
+- [Repeated stiffness solves in a cut spring network](https://github.com/VEDANT1602/lattice-fracture-calibration/blob/main/manuscript.pdf)
+- [Shared uncertainty in dispatch decisions](https://github.com/VEDANT1602/verified-robot-dispatch/blob/main/manuscript.pdf)
+- [Carbon accounting for one-hour HPC deferrals](https://github.com/VEDANT1602/carbon-aware-scheduling-replay/blob/main/manuscript.pdf)
+- [Two low-field readings of a magnetic strip](https://github.com/VEDANT1602/magnetic-cantilever-clearance/blob/main/manuscript.pdf)
+- [Timing a sixth elliptical-rim contact](https://github.com/VEDANT1602/aperture-contact-localization/blob/main/manuscript.pdf)
+- [Foothold clearance and route coverage](https://github.com/VEDANT1602/foothold-margin-planning/blob/main/manuscript.pdf)
 
 [Study repositories and reproducibility files](https://github.com/VEDANT1602/DataScienceProject#research-working-papers)
 
