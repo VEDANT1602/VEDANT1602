@@ -26,6 +26,11 @@ The date range beside each title is its research period (author-reported). Publi
 - [Two-station dispatch from ten tickets](https://github.com/VEDANT1602/verified-robot-dispatch/blob/main/manuscript.pdf) — teaching note · August 2–13, 2026
 - [Timing a sixth contact in ellipse centering](https://github.com/VEDANT1602/aperture-contact-localization/blob/main/manuscript.pdf) — worked geometry example · October 5–21, 2026
 
+### Computational benchmarks
+
+- [When final stopping distances miss the largest closure during braking](https://github.com/VEDANT1602/DataScienceProject/blob/master/research/braking-clearance/manuscript.pdf) — modeled braking trajectories and observed I-80 approaches
+- [Separating KV reuse from discarded outputs in a single-layer attention benchmark](https://github.com/VEDANT1602/DataScienceProject/blob/master/research/attention-baselines/manuscript.pdf) — CPU baselines and two archived Tesla T4 runs
+
 [Study repositories and reproducibility files](https://github.com/VEDANT1602/DataScienceProject#research-working-papers)
 
 ## November 19 project updates
