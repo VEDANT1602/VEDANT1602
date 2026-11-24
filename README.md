@@ -8,11 +8,11 @@ For fulfillment, you can follow a single shopper’s assignments through the [gr
 
 ## Research working papers
 
-The date range beside each title is its research period (author-reported). Manuscripts updated November 21, 2026.
+The date range beside each title is its research period (author-reported). Public working-paper editions updated November 24, 2026.
 
 ### Workshop and preprint candidates
 
-- [Auxiliary loss and time to sustained recall](https://github.com/VEDANT1602/delayed-cue-recall/blob/main/manuscript.pdf) — workshop candidate · October 28–November 18, 2026
+- [Distractor forecasting on two delayed-recall tasks](https://github.com/VEDANT1602/delayed-cue-recall/blob/main/manuscript.pdf) — workshop candidate · October 28–November 18, 2026
 - [Marker spacing and fixture heading](https://github.com/VEDANT1602/fixture-pose-correction/blob/main/manuscript.pdf) — workshop candidate · September 19–October 1, 2026
 - [One-hour flexibility on ARCHER2](https://github.com/VEDANT1602/carbon-aware-scheduling-replay/blob/main/manuscript.pdf) — preprint and workshop candidate · September 19–October 1, 2026
 
@@ -22,7 +22,7 @@ The date range beside each title is its research period (author-reported). Manus
 - [Width checks on five extrusion paths](https://github.com/VEDANT1602/bead-width-inspection/blob/main/manuscript.pdf) — technical report · August 2–13, 2026
 - [Solver choice for repeated lattice queries](https://github.com/VEDANT1602/lattice-fracture-calibration/blob/main/manuscript.pdf) — numerical methods report · August 2–13, 2026
 - [Two calibration readings on uniform magnetic strips](https://github.com/VEDANT1602/magnetic-cantilever-clearance/blob/main/manuscript.pdf) — technical report · September 19–October 1, 2026
-- [Corroborating foot placements with terrain measurements](https://github.com/VEDANT1602/foothold-margin-planning/blob/main/manuscript.pdf) — technical report · October 5–21, 2026
+- [Terrain-map coverage on an ANYmal C traverse](https://github.com/VEDANT1602/foothold-margin-planning/blob/main/manuscript.pdf) — technical report · October 5–21, 2026
 - [Two-station dispatch from ten tickets](https://github.com/VEDANT1602/verified-robot-dispatch/blob/main/manuscript.pdf) — teaching note · August 2–13, 2026
 - [Timing a sixth contact in ellipse centering](https://github.com/VEDANT1602/aperture-contact-localization/blob/main/manuscript.pdf) — worked geometry example · October 5–21, 2026
 
